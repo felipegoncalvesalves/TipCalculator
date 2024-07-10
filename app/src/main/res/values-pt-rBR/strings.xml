@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="summary_subtitle">Veja abaixo resumo da sua conta</string>
+    <string name="total_table">total mesa</string>
+    <string name="num_of_people">numero de pessoas</string>
+    <string name="percentage">porcentagem</string>
+    <string name="total">TOTAL</string>
+    <string name="refresh">refazer</string>
+    <string name="main_subtitle">Preencha os campos abaixo para realizar o calculo da sua conta</string>
+    <string name="table_amount_label">Digete o valor da conta:</string>
+    <string name="table_amount_hint">ex: R$ 100.00</string>
+    <string name="num_people_label">Digete o numero de pessoas:</string>
+    <string name="num_of_people_hint">3</string>
+    <string name="percentage_label">Digete a porcentagem da gorjeta:</string>
+    <string name="percentage_tip_hint">10%</string>
+    <string name="clean">Limpiar</string>
+    <string name="calculate">Calcular</string>
+</resources>
